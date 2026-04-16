@@ -1,0 +1,28 @@
+[
+  {
+    "shopName": "甜甜圈小舖",
+    "foodName": "草莓糖霜甜甜圈",
+    "category": "甜點",
+    "address": "台北市大安區可愛路 12 號",
+    "googleMapUrl": "",
+    "rating": 5,
+    "visitedAt": "2026-03-01",
+    "source": "manual",
+    "reason": "外層糖霜很香，拍照超可愛",
+    "note": "下午容易賣完",
+    "revisit": true
+  },
+  {
+    "shopName": "阿春鍋貼",
+    "foodName": "高麗菜鍋貼",
+    "category": "小吃",
+    "address": "新北市板橋區幸福街 88 號",
+    "googleMapUrl": "",
+    "rating": 4,
+    "visitedAt": "2026-02-18",
+    "source": "friend",
+    "reason": "底部煎得酥酥脆脆",
+    "note": "醬油膏很搭",
+    "revisit": true
+  }
+]
